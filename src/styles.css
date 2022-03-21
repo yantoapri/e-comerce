@@ -1,2 +1,15 @@
 /* Add application styles & imports to this file! */
 @import 'bootstrap/dist/css/bootstrap.min.css';
+#peta {
+  height: 50vw;
+}
+
+#lang li {
+  color: silver;
+}
+#lang .disabled {
+  color: rgb(238, 236, 236);
+}
+.success {
+  color: rgb(22, 116, 80);
+}
